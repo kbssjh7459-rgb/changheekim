@@ -1,0 +1,963 @@
+[
+  {
+    "id": "venue-d5975e0fec",
+    "name": "난지천인조잔디축구장",
+    "district": "마포구",
+    "operator": "서울특별시 산악문화체험센터",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.574238294219086,
+    "lng": 126.88390026512282,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210401100008601453",
+    "phone": "02-3153-9874",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-f804266fd3",
+    "name": "난지천 공원 풋살장",
+    "district": "마포구",
+    "operator": "서울특별시 산악문화체험센터",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.57577125294095,
+    "lng": 126.88127742009968,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260706132614891677",
+    "phone": "02-300-5576",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-01c3712e6f",
+    "name": "풋살경기장",
+    "district": "송파구",
+    "operator": "잠실종합운동장",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.51619977107392,
+    "lng": 127.07594025137807,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S241210095552925088",
+    "phone": "02-2240-8782",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-dc259faea7",
+    "name": "제2풋살경기장",
+    "district": "송파구",
+    "operator": "잠실종합운동장",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.51348,
+    "lng": 127.07662,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S241210101355857365",
+    "phone": "02-2240-8782",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-d0d6e8b840",
+    "name": "풋살경기장",
+    "district": "영등포구",
+    "operator": "영등포공원",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.51557,
+    "lng": 126.91228,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260723141509842931",
+    "phone": "02-2670-3764",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-e2de119150",
+    "name": "인조잔디축구장",
+    "district": "동작구",
+    "operator": "보라매공원 관리사무소.",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.49101,
+    "lng": 126.91605,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251209090453675144",
+    "phone": "02-2181-1180",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-4925bbcf4d",
+    "name": "축구장 2",
+    "district": "강동구",
+    "operator": "광나루한강공원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.55123499620423,
+    "lng": 127.12231538484988,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251123131225200695",
+    "phone": "열쇠 및 장소문의 : 02-3780-0501, 예약문의 : 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-c585d18fa3",
+    "name": "축구장 3",
+    "district": "강동구",
+    "operator": "광나루한강공원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.540679970000994,
+    "lng": 127.1158915314405,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251123131441208582",
+    "phone": "열쇠 및 장소문의 : 02-3780-0501, 예약문의 : 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-2812dcb305",
+    "name": "축구장 1",
+    "district": "광진구",
+    "operator": "뚝섬한강공원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.52803684578285,
+    "lng": 127.0764002514537,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251123125544716776",
+    "phone": "장소,이용: 02-3780-0521/예약: 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-731a75a0d7",
+    "name": "축구장 2",
+    "district": "광진구",
+    "operator": "뚝섬한강공원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.528354608910725,
+    "lng": 127.07545026347927,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251123124116353220",
+    "phone": "장소,이용: 02-3780-0521/예약: 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-dfa6bf0424",
+    "name": "축구장",
+    "district": "서초구",
+    "operator": "잠원한강공원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.52562225916921,
+    "lng": 127.01674072385241,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251123130842289825",
+    "phone": "장소 및 이용: 02-3780-0531/ 예약: 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-dfa6bf0424",
+    "name": "축구장",
+    "district": "서초구",
+    "operator": "반포한강공원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.51465272997659,
+    "lng": 127.00493393301383,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251119173904566376",
+    "phone": "장소 및 이용: 02-3780-0541 / 예약: 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-a075ab0584",
+    "name": "축구장",
+    "district": "용산구",
+    "operator": "이촌한강공원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.517917771228134,
+    "lng": 126.96963722744289,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251123130354516934",
+    "phone": "장소 및 이용: 02-3780-0551/ 예약: 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-8c7d3907ce",
+    "name": "풋살경기장(옥수역하부)",
+    "district": "용산구",
+    "operator": "이촌한강공원",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.54139654093165,
+    "lng": 127.0204207320261,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251119173155750607",
+    "phone": "장소,이용: 02-3780-0551/예약: 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-8bda109e43",
+    "name": "축구장",
+    "district": "영등포구",
+    "operator": "양화한강공원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.54396483198871,
+    "lng": 126.8934840115831,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251123130625642294",
+    "phone": "장소 및 이용: 02-3780-0581/ 예약:02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-348d9991dc",
+    "name": "축구장",
+    "district": "마포구",
+    "operator": "망원한강공원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.551414835463845,
+    "lng": 126.90030305116998,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251123123837907338",
+    "phone": "장소 및 이용: 02-3780-0601/ 예약: 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-34f63c650e",
+    "name": "인조잔디축구장",
+    "district": "구로구",
+    "operator": "계남근린공원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.50873991229815,
+    "lng": 126.85558854790993,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260712153939039418",
+    "phone": "02-2678-9115",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-347d6b850d",
+    "name": "풋살경기장(구일역 하부)",
+    "district": "구로구",
+    "operator": "안양천 체육시설",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.49493348712842,
+    "lng": 126.86937274726102,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S190522144836251426",
+    "phone": "02-860-2922",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-85a1874222",
+    "name": "축구장",
+    "district": "성동구",
+    "operator": "중랑물재생센터",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.56057,
+    "lng": 127.0595,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251125110424950524",
+    "phone": "02-2211-2568",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-f907f98ef3",
+    "name": "서서울호수공원",
+    "district": "양천구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.52707,
+    "lng": 126.83021,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260630083806147346",
+    "phone": "02-2604-3004",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-e38366142e",
+    "name": "보조구장",
+    "district": "마포구",
+    "operator": "서울월드컵경기장",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.571440516252295,
+    "lng": 126.89834860949519,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260108145359423543",
+    "phone": "02-2128-2966",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-7bdf1feed1",
+    "name": "고척스카이돔",
+    "district": "구로구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구",
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.49683,
+    "lng": 126.8669,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260622094412155130",
+    "phone": "02-2128-2352",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-b3354e46f6",
+    "name": "풋살구장",
+    "district": "마포구",
+    "operator": "서울월드컵경기장",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.57254029207188,
+    "lng": 126.89900366993466,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251201134005842787",
+    "phone": "02-2128-2966",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-dfa6bf0424",
+    "name": "축구장",
+    "district": "서초구",
+    "operator": "인재개발원",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.47916,
+    "lng": 127.01899,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S151223153002877769",
+    "phone": "02-3488-2048",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-d444d8134c",
+    "name": "서울어린이대공원 잔디축구장",
+    "district": "광진구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.54784800614607,
+    "lng": 127.08438479753575,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260710141835010862",
+    "phone": "02-450-9321",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-8367e848fb",
+    "name": "방배배수지체육공원",
+    "district": "서초구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구",
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.4730044433,
+    "lng": 126.9924890287,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S240911090012102103",
+    "phone": "02-2155-6211",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-1b118f1dd1",
+    "name": "망원유수지 풋살구장",
+    "district": "마포구",
+    "operator": "망원유수지 풋살장",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.55845423376332,
+    "lng": 126.89684877354514,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260311134818986944",
+    "phone": "02-337-7315",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-f73260734d",
+    "name": "양재근린공원 축구장",
+    "district": "서초구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.47191609856271,
+    "lng": 127.04173706084738,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S240911091215262623",
+    "phone": "02-2155-6211",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-5c59550dd8",
+    "name": "노들나루공원(노들배수지공원)",
+    "district": "동작구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구",
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.5145306282857,
+    "lng": 126.952430150008,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260721101138808675",
+    "phone": "02-820-9440",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-27dd66c8fa",
+    "name": "서남물재생센터",
+    "district": "강서구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.577287681053,
+    "lng": 126.82589611618,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210407133421401399",
+    "phone": "02-3660-2254",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-2ef15847e8",
+    "name": "에코파크",
+    "district": "강남구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.495187838167,
+    "lng": 127.08817787505,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S220321143329949537",
+    "phone": "02-445-9705",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-dc80d48b09",
+    "name": "마루공원",
+    "district": "강남구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.49523951079615,
+    "lng": 127.08065924405156,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210216131458353106",
+    "phone": "02-445-9705",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-709dd60536",
+    "name": "탄천센터",
+    "district": "강남구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.4972726699605,
+    "lng": 127.076439691178,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210216141632920566",
+    "phone": "02-445-9705",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-0bac91ebc7",
+    "name": "효창운동장(축구장&amp;육상트랙)",
+    "district": "용산구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.544040881252,
+    "lng": 126.961645170164,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260714181606790969",
+    "phone": "02-713-1410",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-6e96885866",
+    "name": "난지천 인조잔디 축구장",
+    "district": "마포구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.574086234398735,
+    "lng": 126.88400811253959,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210409130727046749",
+    "phone": "02-3153-9874",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-381ba70259",
+    "name": "노량진 축구장, 야구장",
+    "district": "동작구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.51526855784476,
+    "lng": 126.94176870942795,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260608154916849108",
+    "phone": "02-820-9440",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-2e575bbb85",
+    "name": "풋살장 3:3",
+    "district": "광진구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.55192207294898,
+    "lng": 127.0800436553119,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251222171835404371",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-7c12b6c5d1",
+    "name": "풋살장 5:5",
+    "district": "광진구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.55191057468852,
+    "lng": 127.07997862263885,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251222173224142867",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-23e70111e7",
+    "name": "이촌 풋살장(한남역방향)",
+    "district": "용산구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.52799457010055,
+    "lng": 127.00652661773577,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251119172651369976",
+    "phone": "장소,이용: 02-3780-0551/예약: 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-4ec9d793c4",
+    "name": "난지 풋살장",
+    "district": "마포구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.56471601773345,
+    "lng": 126.88127715054247,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251119170919633024",
+    "phone": "장소,이용: 02-3780-0611/예약: 02-3780-0873",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-d051f442b8",
+    "name": "중랑물재생센터 파크골프장",
+    "district": "성동구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.557756560119174,
+    "lng": 127.05670745568416,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251125133015239473",
+    "phone": "02-2211-2568",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-0e4d04a2fe",
+    "name": "한국외대 인조잔디 구장",
+    "district": "동대문구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.59711036333242,
+    "lng": 127.0597850768134,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S241022131131387828",
+    "phone": "02-2127-4714",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-919200d2e0",
+    "name": "손기정문화체육센터 축구장",
+    "district": "중구",
+    "operator": "확인 필요",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://www.e-junggu.or.kr/fmcs/314?action=list&amp;facilities_type=C&amp;base_date=20260801&amp;center=JUNGGU06&amp;type=&amp;part=08&amp;place=7",
+    "phone": "02-2280-8450",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-f62d9431ab",
+    "name": "훈련원공원종합체육관 종합체육관",
+    "district": "중구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://www.e-junggu.or.kr/fmcs/314?action=list&amp;facilities_type=T&amp;base_date=20260701&amp;center=JUNGGU05&amp;type=&amp;part=03&amp;place=2",
+    "phone": "02-2280-8399",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-077770aaf6",
+    "name": "창동문화체육센터 풋살구장(도봉구)",
+    "district": "도봉구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.dobongsiseol.or.kr/rent/guide.php?c_id=01&amp;page_info=guide&amp;n_type=rent&amp;c_ox=0",
+    "phone": "02-901-5044",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:31:04.242Z"
+  },
+  {
+    "id": "venue-90d4168ebe",
+    "name": "은평구립축구장",
+    "district": "은평구",
+    "operator": "서울특별시 은평구시설관리공단",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "address": "서울특별시 은평구 진관1로 46",
+    "lat": 37.6306105614,
+    "lng": 126.9248440044,
+    "channel": "DISTRICT_SITE",
+    "reserveUrl": "http://www.efmc.or.kr/public_html/sports/",
+    "phone": "02-350-5393",
+    "priceRule": {
+      "raw": "평일:77000+주말:100100",
+      "entries": [
+        {
+          "label": "평일",
+          "amount": 77000
+        },
+        {
+          "label": "주말",
+          "amount": 100100
+        }
+      ]
+    },
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:30:54.781Z"
+  },
+  {
+    "id": "venue-bfda5e9085",
+    "name": "은평광역자원순환센터 체육시설",
+    "district": "은평구",
+    "operator": "서울특별시 은평구시설관리공단",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "address": "서울특별시 은평구 통일로 1200",
+    "lat": 37.64374089,
+    "lng": 126.9210742,
+    "channel": "DISTRICT_SITE",
+    "reserveUrl": "http://www.efmc.or.kr/public_html/sports/",
+    "phone": "02-350-5308",
+    "priceRule": {
+      "raw": "평일오전:21000+평일오후:30000+주말:39000",
+      "entries": [
+        {
+          "label": "평일오전",
+          "amount": 21000
+        },
+        {
+          "label": "평일오후",
+          "amount": 30000
+        },
+        {
+          "label": "주말",
+          "amount": 39000
+        }
+      ]
+    },
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:30:54.781Z"
+  },
+  {
+    "id": "venue-381b4809e2",
+    "name": "강남세곡체육공원 체육시설",
+    "district": "강남구",
+    "operator": "서울특별시 강남구 도시관리공단",
+    "sports": [
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "address": "서울특별시 강남구 헌릉로 679",
+    "lat": 37.46693664,
+    "lng": 127.1126916,
+    "channel": "DISTRICT_SITE",
+    "reserveUrl": "http://life.gangnam.go.kr",
+    "phone": "02-2176-0868",
+    "priceRule": {
+      "raw": "(축구 평일)100000원+(축구 주말)130000원+(테니스 평일)6000원+(테니스 주말)7000원",
+      "entries": [
+        {
+          "label": "축구 평일",
+          "amount": 100000
+        },
+        {
+          "label": "축구 주말",
+          "amount": 130000
+        },
+        {
+          "label": "테니스 평일",
+          "amount": 6000
+        },
+        {
+          "label": "테니스 주말",
+          "amount": 7000
+        }
+      ]
+    },
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-08-19T14:30:54.781Z"
+  }
+]
