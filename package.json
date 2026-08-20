@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "fetch:facility": "tsx --env-file=.env.local scripts/fetch-facility-api.ts",
-    "fetch:seoul": "tsx --env-file=.env.local scripts/fetch-seoul-yeyak.ts",
+    "fetch:facility": "tsx --env-file-if-exists=.env.local scripts/fetch-facility-api.ts",
+    "fetch:seoul": "tsx --env-file-if-exists=.env.local scripts/fetch-seoul-yeyak.ts",
     "build:dataset": "tsx scripts/build-dataset.ts",
     "test": "vitest run"
   },
