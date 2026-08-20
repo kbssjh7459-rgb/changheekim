@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { loadVenues } from '@/lib/venues';
 import { parseFilters, applyFilters } from '@/lib/filterVenues';
 import { FilterForm } from '@/components/FilterForm';
@@ -12,7 +13,10 @@ export default async function Home({ searchParams }: { searchParams: Promise<Sea
 
   return (
     <main className="mx-auto max-w-5xl px-4 py-8">
-      <h1 className="text-2xl font-bold text-gray-900">ground-pass</h1>
+      <div className="flex items-center justify-between">
+        <h1 className="text-2xl font-bold text-gray-900">ground-pass</h1>
+        <Link href="/calendar" className="text-sm text-blue-600 hover:underline">접수 오픈 캘린더 →</Link>
+      </div>
       <p className="mt-1 text-sm text-gray-500">서울 공공 축구·풋살장 통합 조회</p>
 
       <div className="mt-6">
