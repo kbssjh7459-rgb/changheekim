@@ -70,8 +70,9 @@ function buildFromFacilityApi(items: FacilityRawItem[], fetchedAt: string): Venu
     const name = item.openFcltyNm?.trim();
     if (!name) continue;
 
+    const salt = item.rdnmadr || item.lnmadr || item.institutionNm || '';
     venues.push({
-      id: generateVenueId({ district, name, salt: 'facility-api' }),
+      id: generateVenueId({ district, name, salt: `facility-api|${salt}` }),
       name,
       district,
       operator: item.institutionNm?.trim() || '확인 필요',
@@ -117,8 +118,9 @@ function buildFromSeoulYeyak(items: SeoulRawItem[], fetchedAt: string): Venue[] 
     const operator = parts.length > 1 ? parts[0] : '확인 필요';
     const sports = [...new Set(rows.flatMap((r) => detectSports(r.MINCLASSNM)))];
 
+    // placeKey는 그룹핑에 쓴 맵 키라 그룹 간 항상 유일 → salt로 쓰면 동명 시설도 충돌 없음
     venues.push({
-      id: generateVenueId({ district, name, salt: 'seoul-yeyak' }),
+      id: generateVenueId({ district, name, salt: `seoul-yeyak|${placeKey}` }),
       name,
       district,
       operator,
