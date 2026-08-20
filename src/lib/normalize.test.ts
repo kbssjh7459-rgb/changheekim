@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest';
 import {
   detectNightLighting,
   detectSports,
+  detectSurface,
   extractSeoulDistrict,
   generateVenueId,
   mapReservationChannel,
@@ -103,6 +104,22 @@ describe('detectSports', () => {
   it('무관한 시설유형은 빈 배열', () => {
     expect(detectSports('테니스장')).toEqual([]);
     expect(detectSports(undefined)).toEqual([]);
+  });
+});
+
+describe('detectSurface', () => {
+  it('이름에 인조잔디/천연잔디 언급이 있으면 그대로 인식', () => {
+    expect(detectSurface('난지천인조잔디축구장')).toBe('인조잔디');
+    expect(detectSurface('월드컵공원 천연잔디구장')).toBe('천연잔디');
+  });
+
+  it('여러 텍스트 중 하나에만 있어도 인식', () => {
+    expect(detectSurface('축구장 2', '인조잔디 축구전용구장')).toBe('인조잔디');
+  });
+
+  it('언급 없으면 기타(미상)', () => {
+    expect(detectSurface('은평구립축구장')).toBe('기타');
+    expect(detectSurface(undefined, null)).toBe('기타');
   });
 });
 

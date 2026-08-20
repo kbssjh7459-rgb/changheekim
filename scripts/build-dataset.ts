@@ -4,20 +4,23 @@
  * 실행: npx tsx scripts/build-dataset.ts
  */
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { load as loadYaml } from 'js-yaml';
 import {
-  SEOUL_DISTRICTS,
   detectNightLighting,
   detectSports,
+  detectSurface,
   extractSeoulDistrict,
   generateVenueId,
   mapReservationChannel,
   parseCoordinate,
   parseFeeRule,
 } from '@/lib/normalize';
-import type { Venue } from '@/types';
+import { SEOUL_DISTRICTS } from '@/lib/districts';
+import type { Venue, VenuePolicy } from '@/types';
 
 const FACILITY_RAW = 'data/raw/facility-open-api.json';
 const SEOUL_RAW = 'data/raw/seoul-yeyak-sport.json';
+const POLICIES_PATH = 'data/manual/policies.yaml';
 const OUT_PATH = 'data/venues.json';
 
 interface FacilityRawItem {
@@ -56,6 +59,23 @@ function loadRaw<T>(path: string): { fetchedAt: string; items: T[] } {
   return JSON.parse(readFileSync(path, 'utf-8'));
 }
 
+/** data/manual/policies.yaml → venueId 기준 정책 맵. sourceUrl·verifiedAt 없는 항목은 버린다(CLAUDE.md §2 규칙 2). */
+function loadPolicies(): Record<string, VenuePolicy> {
+  if (!existsSync(POLICIES_PATH)) return {};
+  const parsed = loadYaml(readFileSync(POLICIES_PATH, 'utf-8')) as Record<string, VenuePolicy> | null;
+  if (!parsed) return {};
+
+  const result: Record<string, VenuePolicy> = {};
+  for (const [venueId, policy] of Object.entries(parsed)) {
+    if (!policy?.sourceUrl || !policy?.verifiedAt) {
+      console.warn(`정책 무시(sourceUrl/verifiedAt 없음): ${venueId}`);
+      continue;
+    }
+    result[venueId] = policy;
+  }
+  return result;
+}
+
 /** 국가 API(전국공공시설개방정보) → 서울 축구/풋살 Venue만 변환 */
 function buildFromFacilityApi(items: FacilityRawItem[], fetchedAt: string): Venue[] {
   const venues: Venue[] = [];
@@ -77,7 +97,7 @@ function buildFromFacilityApi(items: FacilityRawItem[], fetchedAt: string): Venu
       district,
       operator: item.institutionNm?.trim() || '확인 필요',
       sports,
-      surface: '기타', // 이 API엔 재질 필드가 없음 → 미상
+      surface: detectSurface(name, item.etcFclty), // 이 API엔 재질 필드가 없음 → 이름·부대시설 문구에서 유추, 없으면 기타
       hasNightLighting: detectNightLighting(item.etcFclty),
       address: item.rdnmadr || item.lnmadr || undefined,
       lat: parseCoordinate(item.latitude, 'lat'),
@@ -125,7 +145,7 @@ function buildFromSeoulYeyak(items: SeoulRawItem[], fetchedAt: string): Venue[] 
       district,
       operator,
       sports,
-      surface: '기타', // yeyak 목록 API에도 재질 필드 없음
+      surface: detectSurface(name, ...rows.map((r) => r.SVCNM)), // yeyak 목록 API에도 재질 필드 없음 → 이름들에서 유추
       hasNightLighting: false, // 이 소스에서 확인 불가 → 기본값
       lat: parseCoordinate(first.Y, 'lat'),
       lng: parseCoordinate(first.X, 'lng'),
@@ -154,6 +174,16 @@ function main() {
   // 병합하지 않고 두 목록을 그대로 이어붙인다 → 같은 구장이 중복 등장할 수 있음(알려진 한계).
   const venues = [...seoulVenues, ...facilityVenues];
 
+  const policies = loadPolicies();
+  let policyCount = 0;
+  for (const venue of venues) {
+    const policy = policies[venue.id];
+    if (policy) {
+      venue.policy = policy;
+      policyCount += 1;
+    }
+  }
+
   writeFileSync('data/venues.json', JSON.stringify(venues, null, 2), 'utf-8');
 
   const byDistrict = new Map<string, number>();
@@ -164,6 +194,7 @@ function main() {
   console.log(`총 ${venues.length}건 → ${OUT_PATH}`);
   console.log(`  서울 yeyak(OA-2266): ${seoulVenues.length}건`);
   console.log(`  전국공공시설개방(서울만): ${facilityVenues.length}건`);
+  console.log(`  자격요건 확인됨(policies.yaml): ${policyCount}건`);
   console.log('\n자치구별 건수:');
   const missing = SEOUL_DISTRICTS.filter((d) => !byDistrict.has(d));
   for (const [district, count] of [...byDistrict.entries()].sort((a, b) => b[1] - a[1])) {

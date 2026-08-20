@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import type { Venue } from '@/types';
 import { CHANNEL_LABELS, COVERAGE_LABELS, SURFACE_LABELS } from '@/lib/labels';
 
@@ -28,7 +29,9 @@ export function VenueCard({ venue }: { venue: Venue }) {
   return (
     <li className="rounded-lg border border-gray-200 p-4 shadow-sm hover:shadow-md transition-shadow">
       <div className="flex items-start justify-between gap-2">
-        <h3 className="font-semibold text-gray-900">{venue.name}</h3>
+        <h3 className="font-semibold text-gray-900">
+          <Link href={`/venues/${venue.id}`} className="hover:underline">{venue.name}</Link>
+        </h3>
         <span className="shrink-0 text-sm text-gray-500">{venue.district}</span>
       </div>
 

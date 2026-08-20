@@ -7,13 +7,24 @@
     "sports": [
       "축구"
     ],
-    "surface": "기타",
+    "surface": "인조잔디",
     "hasNightLighting": false,
     "lat": 37.574238294219086,
     "lng": 126.88390026512282,
     "channel": "SEOUL_YEYAK",
     "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210401100008601453",
     "phone": "02-3153-9874",
+    "policy": {
+      "residency": {
+        "required": false,
+        "note": "이용대상: 제한없음"
+      },
+      "requiresRegisteredTeam": false,
+      "allocation": "추첨",
+      "penalty": "당첨권 양도·불법유통 금지. 흡연 적발 시 과태료 10만원 및 즉시 퇴장",
+      "sourceUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210401100008601453",
+      "verifiedAt": "2026-08-20"
+    },
     "coverage": "LINK_ONLY",
     "source": "API",
     "lastFetchedAt": "2026-08-19T14:31:04.242Z"
@@ -90,6 +101,18 @@
     "channel": "SEOUL_YEYAK",
     "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260723141509842931",
     "phone": "02-2670-3764",
+    "policy": {
+      "residency": {
+        "required": false,
+        "note": "이용대상: 성인, 어린이, 청소년 (거주지 제한 없음, 연령 구분만)"
+      },
+      "requiresRegisteredTeam": false,
+      "allocation": "선착순",
+      "openRule": "월 단위 접수. 확인 시점(2026-08-20) 기준 9월분은 2026-08-25(화) 17:00 오픈. 접수 마감: 이용 예정일 2일 전 12:00",
+      "penalty": "취사·흡연·음주 반입 금지, 2회 이상 적발 시 팀 전체 경기장 이용 제한",
+      "sourceUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260723141509842931",
+      "verifiedAt": "2026-08-20"
+    },
     "coverage": "LINK_ONLY",
     "source": "API",
     "lastFetchedAt": "2026-08-19T14:31:04.242Z"
@@ -102,7 +125,7 @@
     "sports": [
       "축구"
     ],
-    "surface": "기타",
+    "surface": "인조잔디",
     "hasNightLighting": false,
     "lat": 37.49101,
     "lng": 126.91605,
@@ -311,13 +334,27 @@
     "sports": [
       "축구"
     ],
-    "surface": "기타",
+    "surface": "인조잔디",
     "hasNightLighting": false,
     "lat": 37.50873991229815,
     "lng": 126.85558854790993,
     "channel": "SEOUL_YEYAK",
     "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260712153939039418",
     "phone": "02-2678-9115",
+    "policy": {
+      "residency": {
+        "required": true,
+        "district": "구로구",
+        "minRatioPercent": 80,
+        "note": "구로구민 또는 구로구 내 직장 재직 직장인 80% 이상 확인된 팀만 팀등록 가능 (직장인은 재직 증빙 필요)"
+      },
+      "requiresRegisteredTeam": true,
+      "allocation": "추첨",
+      "openRule": "예약시스템은 매월 15일 13:00 오픈. 추첨은 반월 단위 — 1~15일 이용분은 전월 말경, 16~31일 이용분은 해당월 11일경 진행(확인 시점 2026-08-20 기준 8월 사례로 확인, 정확한 날짜는 월마다 공지)",
+      "penalty": "한 팀당 월 2회(4시간) 제한. 무단주차 적발 시 3개월 사용 정지. 팀등록신청서 미제출 시 사전 통보 없이 예약 취소",
+      "sourceUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260712153939039418",
+      "verifiedAt": "2026-08-20"
+    },
     "coverage": "LINK_ONLY",
     "source": "API",
     "lastFetchedAt": "2026-08-19T14:31:04.242Z"
@@ -375,6 +412,18 @@
     "channel": "SEOUL_YEYAK",
     "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260630083806147346",
     "phone": "02-2604-3004",
+    "policy": {
+      "residency": {
+        "required": false,
+        "note": "이용대상: 제한없음"
+      },
+      "requiresRegisteredTeam": false,
+      "allocation": "선착순",
+      "openRule": "월별 접수. 확인 시점(2026-08-20) 기준 익월(9월)분은 2026-08-05 14:00 오픈 — 정확한 매월 반복 규칙(요일·시각 고정 여부)은 미확인, 회차마다 공지되는 개별 오픈일시로 처리",
+      "penalty": "이용권 타인 양도 시 이용 제한. 용도 외 사용(운동회·행사 등) 금지",
+      "sourceUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260630083806147346",
+      "verifiedAt": "2026-08-20"
+    },
     "coverage": "LINK_ONLY",
     "source": "API",
     "lastFetchedAt": "2026-08-19T14:31:04.242Z"
@@ -464,7 +513,7 @@
     "sports": [
       "축구"
     ],
-    "surface": "기타",
+    "surface": "인조잔디",
     "hasNightLighting": false,
     "lat": 37.54784800614607,
     "lng": 127.08438479753575,
@@ -568,6 +617,17 @@
     "channel": "SEOUL_YEYAK",
     "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210407133421401399",
     "phone": "02-3660-2254",
+    "policy": {
+      "residency": {
+        "required": false,
+        "note": "이용대상: 제한없음"
+      },
+      "requiresRegisteredTeam": false,
+      "allocation": "선착순",
+      "penalty": "축구장 열쇠 팀간 전달 적발 시 이용제한. 청소 미흡·쓰레기 투기 적발 시 이용 불가 등 불이익",
+      "sourceUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S210407133421401399",
+      "verifiedAt": "2026-08-20"
+    },
     "coverage": "LINK_ONLY",
     "source": "API",
     "lastFetchedAt": "2026-08-19T14:31:04.242Z"
@@ -656,7 +716,7 @@
     "sports": [
       "축구"
     ],
-    "surface": "기타",
+    "surface": "인조잔디",
     "hasNightLighting": false,
     "lat": 37.574086234398735,
     "lng": 126.88400811253959,
@@ -787,7 +847,7 @@
     "sports": [
       "축구"
     ],
-    "surface": "기타",
+    "surface": "인조잔디",
     "hasNightLighting": false,
     "lat": 37.59711036333242,
     "lng": 127.0597850768134,

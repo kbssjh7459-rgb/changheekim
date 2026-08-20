@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { SEOUL_DISTRICTS } from '@/lib/normalize';
+import { SEOUL_DISTRICTS } from '@/lib/districts';
 import { CHANNEL_LABELS, SURFACE_LABELS } from '@/lib/labels';
 import type { VenueFilters } from '@/lib/filterVenues';
 import type { ReservationChannel, SportType, SurfaceType } from '@/types';

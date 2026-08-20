@@ -1,11 +1,8 @@
 import { createHash } from 'node:crypto';
-import type { PriceRule, ReservationChannel, SportType } from '@/types';
+import type { PriceRule, ReservationChannel, SportType, SurfaceType } from '@/types';
+import { SEOUL_DISTRICTS } from './districts';
 
-export const SEOUL_DISTRICTS = [
-  '종로구', '중구', '용산구', '성동구', '광진구', '동대문구', '중랑구', '성북구',
-  '강북구', '도봉구', '노원구', '은평구', '서대문구', '마포구', '양천구', '강서구',
-  '구로구', '금천구', '영등포구', '동작구', '관악구', '서초구', '강남구', '송파구', '강동구',
-] as const;
+export { SEOUL_DISTRICTS };
 
 /**
  * 원본 수치 문자열을 숫자로 변환한다.
@@ -60,6 +57,14 @@ export function detectSports(openFcltyType?: string | null): SportType[] {
   if (!openFcltyType) return [];
   const found = SPORT_KEYWORDS.filter(([pattern]) => pattern.test(openFcltyType)).map(([, s]) => s);
   return [...new Set(found)];
+}
+
+/** 시설명 등 원문에 "인조잔디"/"천연잔디" 언급이 있으면 그대로 쓴다. 언급 없으면 기타(미상). */
+export function detectSurface(...texts: (string | null | undefined)[]): SurfaceType {
+  const combined = texts.filter(Boolean).join(' ');
+  if (/천연잔디/.test(combined)) return '천연잔디';
+  if (/인조잔디/.test(combined)) return '인조잔디';
+  return '기타';
 }
 
 /** 부대시설 문자열에 "조명" 언급이 있으면 야간조명 보유로 본다. 언급 없으면 미확인 → false. */
