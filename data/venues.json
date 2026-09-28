@@ -27,7 +27,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-fc8355d3cd",
@@ -46,7 +46,7 @@
     "phone": "02-300-5576",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-d8ba9439d6",
@@ -65,7 +65,7 @@
     "phone": "02-2240-8782",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-e931967e8d",
@@ -84,7 +84,7 @@
     "phone": "02-2240-8782",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-0d4137558c",
@@ -115,7 +115,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-276ca93370",
@@ -134,7 +134,24 @@
     "phone": "02-2181-1180",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+  },
+  {
+    "id": "venue-244bcc8e47",
+    "name": "창동문화체육센터 풋살구장(도봉구)",
+    "district": "도봉구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.dobongsiseol.or.kr/rent/guide.php?c_id=01&amp;page_info=guide&amp;n_type=rent&amp;c_ox=0",
+    "phone": "02-901-5044",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-20dd672140",
@@ -153,7 +170,7 @@
     "phone": "열쇠 및 장소문의 : 02-3780-0501, 예약문의 : 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-889a8cf2fc",
@@ -172,7 +189,7 @@
     "phone": "열쇠 및 장소문의 : 02-3780-0501, 예약문의 : 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-5288d54ca2",
@@ -191,7 +208,7 @@
     "phone": "장소,이용: 02-3780-0521/예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-92a6c9fc17",
@@ -210,7 +227,7 @@
     "phone": "장소,이용: 02-3780-0521/예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-be1eb4c408",
@@ -229,7 +246,7 @@
     "phone": "장소 및 이용: 02-3780-0531/ 예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-6c9ff404be",
@@ -248,7 +265,7 @@
     "phone": "장소 및 이용: 02-3780-0541 / 예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-a8c2c23335",
@@ -267,7 +284,7 @@
     "phone": "장소 및 이용: 02-3780-0551/ 예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-ab4d97313d",
@@ -286,7 +303,7 @@
     "phone": "장소,이용: 02-3780-0551/예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-92329337cf",
@@ -305,7 +322,7 @@
     "phone": "장소 및 이용: 02-3780-0581/ 예약:02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-2cab9abecc",
@@ -324,7 +341,7 @@
     "phone": "장소 및 이용: 02-3780-0601/ 예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-a5f157faa5",
@@ -357,7 +374,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-73bf5f9155",
@@ -376,7 +393,7 @@
     "phone": "02-860-2922",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-2490d42623",
@@ -395,7 +412,7 @@
     "phone": "02-2211-2568",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-76566db62f",
@@ -426,7 +443,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-7fbf67c501",
@@ -445,7 +462,7 @@
     "phone": "02-2128-2966",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-1d3b71673c",
@@ -464,7 +481,7 @@
     "phone": "02-2128-2966",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-bcfe96de0e",
@@ -479,11 +496,11 @@
     "lat": 37.54784800614607,
     "lng": 127.08438479753575,
     "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260808165908950581",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260915105251406767",
     "phone": "02-450-9321",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-200f7b3e52",
@@ -502,7 +519,7 @@
     "phone": "02-3488-2048",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-8734e5ec56",
@@ -522,7 +539,7 @@
     "phone": "02-2128-2352",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-9d72aae284",
@@ -542,7 +559,7 @@
     "phone": "02-2155-6211",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-03812ea750",
@@ -561,7 +578,7 @@
     "phone": "02-337-7315",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-cd3b2cf705",
@@ -580,7 +597,7 @@
     "phone": "02-2155-6211",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-b2845cc29f",
@@ -600,7 +617,26 @@
     "phone": "02-820-9440",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+  },
+  {
+    "id": "venue-d5685bf0d7",
+    "name": "에코파크",
+    "district": "강남구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.495187838167,
+    "lng": 127.08817787505,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S220321143329949537",
+    "phone": "02-445-9705",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-7948e9b67e",
@@ -630,26 +666,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
-  },
-  {
-    "id": "venue-d5685bf0d7",
-    "name": "에코파크",
-    "district": "강남구",
-    "operator": "확인 필요",
-    "sports": [
-      "풋살"
-    ],
-    "surface": "기타",
-    "hasNightLighting": false,
-    "lat": 37.495187838167,
-    "lng": 127.08817787505,
-    "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S220321143329949537",
-    "phone": "02-445-9705",
-    "coverage": "LINK_ONLY",
-    "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-43d4d808a0",
@@ -668,7 +685,7 @@
     "phone": "02-445-9705",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-91399de3d1",
@@ -687,7 +704,7 @@
     "phone": "02-445-9705",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-2084e2a994",
@@ -706,7 +723,7 @@
     "phone": "02-713-1410",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-c42a93aa15",
@@ -725,7 +742,7 @@
     "phone": "02-3153-9874",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-bd24beeaca",
@@ -744,7 +761,7 @@
     "phone": "02-820-9440",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-381bf55c29",
@@ -762,7 +779,7 @@
     "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251222171835404371",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-c1820dde3e",
@@ -780,7 +797,7 @@
     "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251222173224142867",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-e1e0f7e2c5",
@@ -799,7 +816,7 @@
     "phone": "장소,이용: 02-3780-0551/예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-d58f8efea8",
@@ -818,7 +835,7 @@
     "phone": "장소,이용: 02-3780-0611/예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-30ec6bcfd3",
@@ -837,7 +854,7 @@
     "phone": "02-2211-2568",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-6363231d13",
@@ -856,7 +873,7 @@
     "phone": "02-2127-4714",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-5759077e69",
@@ -873,7 +890,7 @@
     "phone": "02-2280-8450",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-a2e4301910",
@@ -890,24 +907,7 @@
     "phone": "02-2280-8399",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
-  },
-  {
-    "id": "venue-244bcc8e47",
-    "name": "창동문화체육센터 풋살구장(도봉구)",
-    "district": "도봉구",
-    "operator": "확인 필요",
-    "sports": [
-      "풋살"
-    ],
-    "surface": "기타",
-    "hasNightLighting": false,
-    "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.dobongsiseol.or.kr/rent/guide.php?c_id=01&amp;page_info=guide&amp;n_type=rent&amp;c_ox=0",
-    "phone": "02-901-5044",
-    "coverage": "LINK_ONLY",
-    "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:59.850Z"
+    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
   },
   {
     "id": "venue-e2bfaf64e5",
@@ -940,7 +940,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:55.529Z"
+    "lastFetchedAt": "2026-09-28T02:05:20.300Z"
   },
   {
     "id": "venue-e50e70f19d",
@@ -977,7 +977,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:55.529Z"
+    "lastFetchedAt": "2026-09-28T02:05:20.300Z"
   },
   {
     "id": "venue-4dba921e0a",
@@ -1018,6 +1018,6 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-21T01:49:55.529Z"
+    "lastFetchedAt": "2026-09-28T02:05:20.300Z"
   }
 ]
