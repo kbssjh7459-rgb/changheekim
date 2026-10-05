@@ -27,7 +27,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-fc8355d3cd",
@@ -42,11 +42,11 @@
     "lat": 37.57577125294095,
     "lng": 126.88127742009968,
     "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260811100606264496",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260911084336948467",
     "phone": "02-300-5576",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-d8ba9439d6",
@@ -65,7 +65,7 @@
     "phone": "02-2240-8782",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-e931967e8d",
@@ -84,7 +84,7 @@
     "phone": "02-2240-8782",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-0d4137558c",
@@ -99,7 +99,7 @@
     "lat": 37.51557,
     "lng": 126.91228,
     "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260821160342456803",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260917123437229695",
     "phone": "02-2670-3764",
     "policy": {
       "residency": {
@@ -115,7 +115,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-276ca93370",
@@ -134,24 +134,7 @@
     "phone": "02-2181-1180",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
-  },
-  {
-    "id": "venue-244bcc8e47",
-    "name": "창동문화체육센터 풋살구장(도봉구)",
-    "district": "도봉구",
-    "operator": "확인 필요",
-    "sports": [
-      "풋살"
-    ],
-    "surface": "기타",
-    "hasNightLighting": false,
-    "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.dobongsiseol.or.kr/rent/guide.php?c_id=01&amp;page_info=guide&amp;n_type=rent&amp;c_ox=0",
-    "phone": "02-901-5044",
-    "coverage": "LINK_ONLY",
-    "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-20dd672140",
@@ -170,7 +153,7 @@
     "phone": "열쇠 및 장소문의 : 02-3780-0501, 예약문의 : 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-889a8cf2fc",
@@ -189,7 +172,7 @@
     "phone": "열쇠 및 장소문의 : 02-3780-0501, 예약문의 : 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-5288d54ca2",
@@ -208,7 +191,7 @@
     "phone": "장소,이용: 02-3780-0521/예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-92a6c9fc17",
@@ -227,7 +210,7 @@
     "phone": "장소,이용: 02-3780-0521/예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-be1eb4c408",
@@ -246,7 +229,7 @@
     "phone": "장소 및 이용: 02-3780-0531/ 예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-6c9ff404be",
@@ -265,7 +248,7 @@
     "phone": "장소 및 이용: 02-3780-0541 / 예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-a8c2c23335",
@@ -284,7 +267,7 @@
     "phone": "장소 및 이용: 02-3780-0551/ 예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-ab4d97313d",
@@ -303,7 +286,7 @@
     "phone": "장소,이용: 02-3780-0551/예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-92329337cf",
@@ -322,7 +305,7 @@
     "phone": "장소 및 이용: 02-3780-0581/ 예약:02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-2cab9abecc",
@@ -341,7 +324,7 @@
     "phone": "장소 및 이용: 02-3780-0601/ 예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-a5f157faa5",
@@ -356,7 +339,7 @@
     "lat": 37.50873991229815,
     "lng": 126.85558854790993,
     "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260813170542380261",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260912151226259318",
     "phone": "02-2678-9115",
     "policy": {
       "residency": {
@@ -374,7 +357,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-73bf5f9155",
@@ -393,7 +376,7 @@
     "phone": "02-860-2922",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-2490d42623",
@@ -412,7 +395,7 @@
     "phone": "02-2211-2568",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-76566db62f",
@@ -427,7 +410,7 @@
     "lat": 37.52707,
     "lng": 126.83021,
     "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260709085252113893",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260730153750703793",
     "phone": "02-2604-3004",
     "policy": {
       "residency": {
@@ -443,7 +426,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-7fbf67c501",
@@ -462,7 +445,27 @@
     "phone": "02-2128-2966",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
+  },
+  {
+    "id": "venue-8734e5ec56",
+    "name": "고척스카이돔",
+    "district": "구로구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살",
+      "축구"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.49683,
+    "lng": 126.8669,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260622104623512626",
+    "phone": "02-2128-2352",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-1d3b71673c",
@@ -481,26 +484,24 @@
     "phone": "02-2128-2966",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
-    "id": "venue-bcfe96de0e",
-    "name": "서울어린이대공원 잔디축구장",
-    "district": "광진구",
+    "id": "venue-5759077e69",
+    "name": "손기정문화체육센터 축구장",
+    "district": "중구",
     "operator": "확인 필요",
     "sports": [
       "축구"
     ],
-    "surface": "인조잔디",
+    "surface": "기타",
     "hasNightLighting": false,
-    "lat": 37.54784800614607,
-    "lng": 127.08438479753575,
     "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260915105251406767",
-    "phone": "02-450-9321",
+    "reserveUrl": "https://www.e-junggu.or.kr/fmcs/314?action=list&amp;facilities_type=C&amp;base_date=20261001&amp;center=JUNGGU06&amp;type=&amp;part=08&amp;place=7",
+    "phone": "02-2280-8450",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-200f7b3e52",
@@ -519,27 +520,26 @@
     "phone": "02-3488-2048",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
-    "id": "venue-8734e5ec56",
-    "name": "고척스카이돔",
-    "district": "구로구",
+    "id": "venue-bcfe96de0e",
+    "name": "서울어린이대공원 잔디축구장",
+    "district": "광진구",
     "operator": "확인 필요",
     "sports": [
-      "축구",
-      "풋살"
+      "축구"
     ],
-    "surface": "기타",
+    "surface": "인조잔디",
     "hasNightLighting": false,
-    "lat": 37.49683,
-    "lng": 126.8669,
+    "lat": 37.54784800614607,
+    "lng": 127.08438479753575,
     "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260622092907066540",
-    "phone": "02-2128-2352",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260915100315743622",
+    "phone": "02-450-9321",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-9d72aae284",
@@ -559,7 +559,7 @@
     "phone": "02-2155-6211",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-03812ea750",
@@ -578,7 +578,24 @@
     "phone": "02-337-7315",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
+  },
+  {
+    "id": "venue-a2e4301910",
+    "name": "훈련원공원종합체육관 종합체육관",
+    "district": "중구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://www.e-junggu.or.kr/fmcs/314?action=list&amp;facilities_type=T&amp;base_date=20260901&amp;center=JUNGGU05&amp;type=&amp;part=03&amp;place=2",
+    "phone": "02-2280-8399",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-cd3b2cf705",
@@ -597,7 +614,7 @@
     "phone": "02-2155-6211",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-b2845cc29f",
@@ -613,30 +630,11 @@
     "lat": 37.5145306282857,
     "lng": 126.952430150008,
     "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260821142440359268",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260922110744692329",
     "phone": "02-820-9440",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
-  },
-  {
-    "id": "venue-d5685bf0d7",
-    "name": "에코파크",
-    "district": "강남구",
-    "operator": "확인 필요",
-    "sports": [
-      "풋살"
-    ],
-    "surface": "기타",
-    "hasNightLighting": false,
-    "lat": 37.495187838167,
-    "lng": 127.08817787505,
-    "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S220321143329949537",
-    "phone": "02-445-9705",
-    "coverage": "LINK_ONLY",
-    "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-7948e9b67e",
@@ -666,7 +664,26 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
+  },
+  {
+    "id": "venue-d5685bf0d7",
+    "name": "에코파크",
+    "district": "강남구",
+    "operator": "확인 필요",
+    "sports": [
+      "풋살"
+    ],
+    "surface": "기타",
+    "hasNightLighting": false,
+    "lat": 37.495187838167,
+    "lng": 127.08817787505,
+    "channel": "SEOUL_YEYAK",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S220321143329949537",
+    "phone": "02-445-9705",
+    "coverage": "LINK_ONLY",
+    "source": "API",
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-43d4d808a0",
@@ -685,7 +702,7 @@
     "phone": "02-445-9705",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-91399de3d1",
@@ -704,11 +721,11 @@
     "phone": "02-445-9705",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
-    "id": "venue-2084e2a994",
-    "name": "효창운동장(축구장&amp;육상트랙)",
+    "id": "venue-feeef9b284",
+    "name": "효창운동장(축구장,육상트랙)",
     "district": "용산구",
     "operator": "확인 필요",
     "sports": [
@@ -719,11 +736,11 @@
     "lat": 37.544040881252,
     "lng": 126.961645170164,
     "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260818204403796833",
+    "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260916105404592536",
     "phone": "02-713-1410",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-c42a93aa15",
@@ -742,7 +759,7 @@
     "phone": "02-3153-9874",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-bd24beeaca",
@@ -761,7 +778,7 @@
     "phone": "02-820-9440",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-381bf55c29",
@@ -779,7 +796,7 @@
     "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251222171835404371",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-c1820dde3e",
@@ -797,7 +814,7 @@
     "reserveUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S251222173224142867",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-e1e0f7e2c5",
@@ -816,7 +833,7 @@
     "phone": "장소,이용: 02-3780-0551/예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-d58f8efea8",
@@ -835,7 +852,7 @@
     "phone": "장소,이용: 02-3780-0611/예약: 02-3780-0873",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-30ec6bcfd3",
@@ -854,7 +871,7 @@
     "phone": "02-2211-2568",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-6363231d13",
@@ -873,29 +890,12 @@
     "phone": "02-2127-4714",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
-    "id": "venue-5759077e69",
-    "name": "손기정문화체육센터 축구장",
-    "district": "중구",
-    "operator": "확인 필요",
-    "sports": [
-      "축구"
-    ],
-    "surface": "기타",
-    "hasNightLighting": false,
-    "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://www.e-junggu.or.kr/fmcs/314?action=list&amp;facilities_type=C&amp;base_date=20260914&amp;center=JUNGGU06&amp;type=&amp;part=08&amp;place=7",
-    "phone": "02-2280-8450",
-    "coverage": "LINK_ONLY",
-    "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
-  },
-  {
-    "id": "venue-a2e4301910",
-    "name": "훈련원공원종합체육관 종합체육관",
-    "district": "중구",
+    "id": "venue-244bcc8e47",
+    "name": "창동문화체육센터 풋살구장(도봉구)",
+    "district": "도봉구",
     "operator": "확인 필요",
     "sports": [
       "풋살"
@@ -903,11 +903,11 @@
     "surface": "기타",
     "hasNightLighting": false,
     "channel": "SEOUL_YEYAK",
-    "reserveUrl": "https://www.e-junggu.or.kr/fmcs/314?action=list&amp;facilities_type=T&amp;base_date=20260901&amp;center=JUNGGU05&amp;type=&amp;part=03&amp;place=2",
-    "phone": "02-2280-8399",
+    "reserveUrl": "https://yeyak.dobongsiseol.or.kr/rent/guide.php?c_id=01&amp;page_info=guide&amp;n_type=rent&amp;c_ox=0",
+    "phone": "02-901-5044",
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:24.877Z"
+    "lastFetchedAt": "2026-10-05T02:31:23.424Z"
   },
   {
     "id": "venue-e2bfaf64e5",
@@ -940,7 +940,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:20.300Z"
+    "lastFetchedAt": "2026-10-05T02:31:18.554Z"
   },
   {
     "id": "venue-e50e70f19d",
@@ -977,7 +977,7 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:20.300Z"
+    "lastFetchedAt": "2026-10-05T02:31:18.554Z"
   },
   {
     "id": "venue-4dba921e0a",
@@ -1018,6 +1018,6 @@
     },
     "coverage": "LINK_ONLY",
     "source": "API",
-    "lastFetchedAt": "2026-09-28T02:05:20.300Z"
+    "lastFetchedAt": "2026-10-05T02:31:18.554Z"
   }
 ]
